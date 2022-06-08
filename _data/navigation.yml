@@ -1,6 +1,6 @@
-- name: Docs
+- name: Mazes
   link: /docs/
-- name: Example Pages
+- name: Parts
   link: /#
   dropdown:
     - name: Landing Page With Callouts
