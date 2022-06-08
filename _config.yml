@@ -41,6 +41,8 @@ sass:
 markdown: kramdown
 highlighter: rouge
 
+fixed_navbar: top
+
 footer_menu: example_footer_menu
 
 collections:
