@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Get Help
 subtitle: Basic tutorials and instructions
 show_sidebar: true
