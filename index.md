@@ -1,7 +1,7 @@
 ---
 layout: default
 title: M3
-subtitle:Welcome to the Modular Mouse Maze
+subtitle: Welcome to the Modular Mouse Maze
 show_sidebar: false
 ---
 
