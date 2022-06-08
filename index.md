@@ -1,14 +1,4 @@
-<html>
 
-<div class="topnav">
-  <a class="active" href="{{site.baseurl}}/">Home</a>
-  <a href="{{site.baseurl}}/mazes/">Mazes</a>
-  <a href="{{site.baseurl}}/parts/">Parts</a>
-</div>
-
-</html>
-
----
 
 ![test gif](/assets/test.gif)
 
