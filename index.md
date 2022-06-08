@@ -1,7 +1,4 @@
 
-
-![test gif](/assets/test.gif)
-
 ---
 
 
