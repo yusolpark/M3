@@ -1,5 +1,5 @@
 - name: Mazes
-  link: /mazes
+  link: /mazes/
   dropdown:
     - name: Y-maze
       link: /example_ymaze/
