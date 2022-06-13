@@ -1,6 +1,6 @@
 domain: modularmousemaze.org      
 url: https://modularmousemaze.org 
-baseurl: modularmousemaze.org    
+baseurl: ""
 remote_theme: chrisrhymes/bulma-clean-theme
 
 title: M3 
