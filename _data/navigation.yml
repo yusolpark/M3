@@ -4,7 +4,7 @@
     - name: Y-maze
       link: /mazes/ymaze/
     - name: OFT 
-      link: /mazes/OFT/
+      link: /mazes/oft/
 - name: Parts
   link: /#
   dropdown:
