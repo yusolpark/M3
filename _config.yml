@@ -1,6 +1,6 @@
-domain: modularmousemaze.org      
-url: https://modularmousemaze.org 
-baseurl: ""
+domain: yusolpark.github.io/m3   
+url: https://yusolpark.github.io/m3
+baseurl: /M3
 remote_theme: chrisrhymes/bulma-clean-theme
 
 title: M3 
