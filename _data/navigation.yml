@@ -2,9 +2,9 @@
   link: /#
   dropdown:
     - name: Y-maze
-      link: /mazes/example_ymaze/
+      link: /mazes/ymaze/
     - name: OFT 
-      link: /mazes/example_OFT/
+      link: /mazes/OFT/
 - name: Parts
   link: /#
   dropdown:
