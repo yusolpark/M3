@@ -7,6 +7,7 @@ show_sidebar: false
 
 # Example page for Y-maze
 
+<div>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -52,5 +53,6 @@ show_sidebar: false
 </div>
 
 </body>
+</div>
 
 
