@@ -8,17 +8,13 @@
 - name: Parts
   link: /#
   dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
+    - name: Wall Panel
+      link: /parts/wall/
+    - name: Floor Panel
+      link: /parts/floor/
+    - name: Junction
+      link: /parts/junction/
+    - name: Proximity Sensor
+      link: /parts/proximity_sensor/
 - name: Help
   link: /help/
