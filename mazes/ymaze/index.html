@@ -35,6 +35,17 @@ show_sidebar: false
     display: table;
     clear: both;
   }
+  .img_column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.img_row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
   </style>
 </head>
 <body>
@@ -43,6 +54,15 @@ show_sidebar: false
     <div class="column left" style="background-color:#FFFFFF;">
       <h2>Y maze demo</h2>
        <hr>
+
+      <div class="img_row">
+        <div class="img_column">
+          <img src="img/ymaze_1.png" alt="Y-maze photo 1" style="width:100%">
+        </div>
+        <div class="img_column">
+          <img src="img/ymaze_2.png" alt="Y-maze photo 1" style="width:100%">
+        </div
+      </div>
       <p>video of tutorial and demo</p>
     </div>
     <div class="column right" style="background-color:#FFFFFF;">
