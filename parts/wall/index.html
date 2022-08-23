@@ -35,6 +35,23 @@ show_sidebar: false
     display: table;
     clear: both;
   }
+    
+.img_r {
+  display: flex;
+  padding: 10px;
+  border-style: outset;
+}
+
+.img_c {
+  flex: 50%;
+  padding: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   </style>
 </head>
 <body>
@@ -43,12 +60,22 @@ show_sidebar: false
     <div class="column left" style="background-color:#FFFFFF;">
       <h2>Wall panel 3D design</h2>
        <hr>
-      <p>Designs and videos</p>
+       <h2>Wall panel images</h2>
+      <div class="row">
+        <div class="img_r">
+          <div class="img_c"> 
+            <img src="/M3/img/wall_1.png" alt="Y-maze photo 1"  style="width: 100%" class="center">
+          </div>
+          <div class="img_c"> 
+            <img src="/M3/img/wall_2.png" alt="Y-maze photo 2" style="width: 100%; border" class="center">
+          </div>
+        </div>
+      </div>
     </div>
     <div class="column right" style="background-color:#FFFFFF;">
-      <h2>Products</h2>
+      <h2>Download</h2>
       <hr>
-      <p>example links</p>
+      <p>stl files</p>
     </div>
   </div>
 </body>
