@@ -18,8 +18,7 @@
         - name: Right junction 
           link: /parts/junction/right_junction/
         - name: Straight junction
-          link: /parts/junction/straight_junction/
-          
+          link: /parts/junction/straight_junction/   
     - name: Proximity Sensor
       link: /parts/proximity_sensor/
       
