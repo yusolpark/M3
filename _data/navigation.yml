@@ -21,6 +21,5 @@
           link: /parts/junction/straight_junction/   
     - name: Proximity Sensor
       link: /parts/proximity_sensor/
-      
 - name: Help
   link: /help/
