@@ -1,7 +1,7 @@
 - label: Getting Started
   items:
     - name: Installation
-      link: /parts/getting-started/installation/
+      link: /parts/getting_started/installation/
     - name: Configuration
-      link: /parts/getting-started/configuration/
+      link: /parts/getting_started/configuration/
   
