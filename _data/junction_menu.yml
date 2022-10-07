@@ -1,0 +1,7 @@
+- label: Junction
+  items:
+    - name: Straight Junction
+      link: /parts/junction/straight_junction/
+    - name: Right Angle Junction 
+      link: /parts/junction/right_junction/
+  
