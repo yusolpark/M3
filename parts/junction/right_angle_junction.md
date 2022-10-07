@@ -3,7 +3,7 @@ layout: page
 title: Right Angle Junction
 subtitle: 
 menubar: junction_menu
-show_sidebar: True
+show_sidebar: False
 toc: true
 ---
 
