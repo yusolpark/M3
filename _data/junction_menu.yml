@@ -2,6 +2,8 @@
   items:
     - name: Straight Junction
       link: /parts/junction/straight_junction/
+    - name: Straight Bracket Junction
+      link: /parts/junction/straight_bracket_junction/
     - name: Right Angle Junction 
       link: /parts/junction/right_angle_junction/
   
