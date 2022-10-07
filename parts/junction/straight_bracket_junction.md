@@ -13,4 +13,4 @@ toc: true
 </html>
 
 ## Download
-[Straight Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl)
+[Straight Bracket Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl)
