@@ -2,7 +2,7 @@
 layout: page
 title: Configuration
 subtitle: Getting Started
-menubar: docs_menu
+menubar: test_menu
 show_sidebar: false
 toc: true
 ---
