@@ -1,6 +1,6 @@
 ---
 layout: page
-menubar: docs_menu
+menubar: test_menu
 title: Installation
 subtitle: Getting Started
 show_sidebar: false
