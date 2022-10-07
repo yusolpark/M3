@@ -13,4 +13,4 @@ toc: true
 ## Images 
 
 ## Download
-      <a href="/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl" download>Right Angle Junction stl File</a>
+[Right Angle Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
