@@ -4,7 +4,7 @@ title: Right Angle Junction
 subtitle: 
 menubar: junction_menu
 show_sidebar: False
-toc: true
+toc: false
 ---
 
 ## Right Angle Junction 3D design 
@@ -14,3 +14,7 @@ toc: true
 
 ## Download
 [Right Angle Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
+
+[Right Angle Junction STEP File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
+
+[Right Angle Junction File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
