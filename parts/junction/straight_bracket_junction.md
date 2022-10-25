@@ -4,7 +4,7 @@ title: Straight Junction with Brackets
 subtitle: 
 menubar: junction_menu
 show_sidebar: False
-toc: true
+toc: false
 ---
 
 ## Straight Bracket Junction 3D design 
