@@ -13,7 +13,7 @@
     - name: Wall Panel
       link: /parts/wall/
     - name: Floor Panel
-      link: /parts/floor/
+      link: /parts/floor/straight_junction.md
     - name: Junction
       link: /parts/junction/  
     - name: Proximity Sensor
