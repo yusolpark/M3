@@ -4,7 +4,7 @@ title: Straight Junction
 subtitle: 
 menubar: junction_menu
 show_sidebar: false
-toc: true
+toc: false
 ---
 
 ## Straight Junction 3D design 
@@ -14,3 +14,5 @@ toc: true
 
 ## Download
 [Straight Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,straight).stl)
+[Straight Junction STEP File](/M3/parts/files/2-leaf_tight_junction(106mm,straight).stl)
+[Straight Junction File](/M3/parts/files/2-leaf_tight_junction(106mm,straight).stl)
