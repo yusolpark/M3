@@ -14,3 +14,7 @@ toc: false
 
 ## Download
 [Triangle Floor stl File](/M3/parts/files/floor(80mm_triangle,108mm_height).stl)
+
+[Triangle Floor STEP File](/M3/parts/files/floor(80mm_triangle,108mm_height).stl)
+
+[Triangle Floor File](/M3/parts/files/floor(80mm_triangle,108mm_height).stl)
