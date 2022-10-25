@@ -1,0 +1,6 @@
+- label: Floor
+  items:
+    - name: Square Floor
+      link: /parts/junction/square_floor/
+    - name: Triangle Floor
+      link: /parts/junction/triangle_floor/
