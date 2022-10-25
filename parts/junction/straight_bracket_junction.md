@@ -14,3 +14,7 @@ toc: false
 
 ## Download
 [Straight Bracket Junction stl File](/M3/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl)
+
+[Straight Bracket Junction STEP File](/M3/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl)
+
+[Straight Bracket Junction File](/M3/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl)
