@@ -1,0 +1,6 @@
+- label: Y maze
+  items:
+    - name: Y maze
+      link: /mazes/ymaze/ymaze/
+    - name: Y maze 2
+      link: /mazes/ymaze/ymaze2/
