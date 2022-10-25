@@ -1,0 +1,6 @@
+- label: Wall
+  items:
+    - name: Wall
+      link: /parts/wall/wall/
+    - name: Wall with Sensor
+      link: /parts/wall/sensor_wall/
