@@ -14,3 +14,7 @@ toc: false
 
 ## Download
 [Square Floor stl File](/M3/parts/files/floor(80x80mm).stl)
+
+[Square Floor STEP File](/M3/parts/files/floor(80x80mm).stl)
+
+[Square Floor File](/M3/parts/files/floor(80x80mm).stl)
