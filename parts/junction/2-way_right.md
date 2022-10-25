@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Right Angle Junction
+title:  2-way (right angle) Junction
 subtitle: 
 menubar: junction_menu
 show_sidebar: False
@@ -17,4 +17,3 @@ toc: false
 
 [Right Angle Junction STEP File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
 
-[Right Angle Junction File](/M3/parts/files/2-leaf_tight_junction(106mm,right-angle).stl)
