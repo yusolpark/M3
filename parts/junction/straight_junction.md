@@ -3,7 +3,7 @@ layout: page
 title: Straight Junction
 subtitle: 
 menubar: junction_menu
-show_sidebar: False
+show_sidebar: false
 toc: true
 ---
 
