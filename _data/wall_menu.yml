@@ -2,5 +2,7 @@
   items:
     - name: Wall
       link: /parts/wall/wall/
-    - name: Wall with Sensor
-      link: /parts/wall/sensor_wall/
+    - name: Wall (with sensor)
+      link: /parts/wall/wall(with sensor)/
+    - name: Wall (with sensor, display, and reward)
+      link: /parts/wall/wall(withsensor,display,andreward)/
