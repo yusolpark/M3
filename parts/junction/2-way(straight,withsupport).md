@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 2-way (straight, with support) Junction
+title: 2-way (straight, with support)
 subtitle: 
 menubar: junction_menu
 show_sidebar: False
 toc: false
 ---
 
-## 2-way (straight, with support) Junction 3D design 
+## 2-way (straight, with support) 3D design 
 <html>
 <script src="https://embed.github.com/view/3d/yusolpark/M3/master/parts/files/2-leaf_tight_junction(106mm,straight,bracket).stl"></script>
 </html>
