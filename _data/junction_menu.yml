@@ -9,7 +9,7 @@
     - name: 2-way (right angle)
       link: /parts/junction/2-way_right/
     - name: 2-way (straight)
-      link: /parts/junction/2-way_stright/
+      link: /parts/junction/2-way_straight/
     - name: 2-way (straight, with support)
-      link: /parts/junction/2-way_stright_support/
+      link: /parts/junction/2-way_straight_support/
   
