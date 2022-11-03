@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wall with Sensor
+title: Wall (with sensor)
 subtitle: 
 menubar: wall_menu
 show_sidebar: false
@@ -13,8 +13,8 @@ toc: false
 </html>
 
 ## Download
-[Wall with Sensor stl File](/M3/parts/files/wall(100mm,sensor).stl)
+[wall (with sensor) stl File](/M3/parts/files/wall(100mm,sensor).stl)
 
-[Wall with Sensor STEP File](/M3/parts/files/wall(100mm,sensor).stl)
+[wall (with sensor) STEP File](/M3/parts/files/wall(100mm,sensor).stl)
 
-[Wall with Sensor File](/M3/parts/files/wall(100mm,sensor).stl)
+
